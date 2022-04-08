@@ -16,7 +16,7 @@ Descargalo, abrelo con un IDE compatible con Gradle y a jugar!
 
 #### Como funciona el nombre de usuario?
 
-El nombre de usuario consta de dos partes, el nombre que escoges y el número de cuenta asignada al crearla(comprueba el nombre de usuario con su número antes de cerrar sesión, si no, no tendrás forma de saber el número).
+El nombre de usuario consta de dos partes, el nombre que escoges y el número de cuenta asignada al crearla (comprueba el nombre de usuario con su número antes de cerrar sesión, si no, no tendrás forma de saber el número).
 
 El nombre de usuario final quedaría así:
 
